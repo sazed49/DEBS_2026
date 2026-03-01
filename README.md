@@ -153,16 +153,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📜 Citation
 
-If you use this repository in your research, please cite:
 
-```bibtex
-@article{rahman2026trustfed,
-  title={Label-Flip Attack Detection via Trust-Weighted Aggregation in Federated Learning for Underground Mine Security},
-  author={Rahman, Md. Sazedur and others},
-  journal={Under Review},
-  year={2026}
-}
-```
 
